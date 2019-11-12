@@ -1,5 +1,7 @@
-# WonderPyExamples
-This is a collection of examples and tutorials for the [WonderPy Python API](https://github.com/playi/WonderPy) for working with [Wonder Workshop](https://www.makewonder.com) robots.
+# Extending WonderPyExamples by AJBN
+This project extends the original examples and tutorials for the [WonderPy Python API](https://github.com/playi/WonderPy) for working with [Wonder Workshop](https://www.makewonder.com) robots in two ways:
+1. tracking the Dash robot on a mat and
+2. issuing commands using tangibles blocks with NFC tags
 
 # Project Status
 At an "Alpha" release. It's ready to be tried out by folks who are willing to live with a few rough-edges and can provide constructive criticism. We look forward to your feedback!
