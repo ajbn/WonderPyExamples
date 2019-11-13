@@ -25,5 +25,5 @@ They are at an "Alpha" release and were tested with the Dash robot.
 4. [Arduino IDE](https://www.arduino.cc/en/Main/Software)
 5. [Arduino RFID Library for MFRC522](https://github.com/miguelbalboa/rfid)
 6. an Arduino board with Serial Peripheral Interface (SPI) interface. I have been using an Arduino Mega 2560 board
-7. a MF RC522 RFID based reader. I have been using a model from [Velleman bought at Mauasr.pt](https://mauser.pt/catalog/product_info.php?cPath=1667_2604_2607&products_id=096-4672)
+7. a MF RC522 RFID based reader. I have been using a model from [Velleman bought at Mauser.pt](https://mauser.pt/catalog/product_info.php?cPath=1667_2604_2607&products_id=096-4672)
 8. a Bluetooth serial communication module. I have been using a [HC-06 model bought at BoxEletronica](https://www.boxelectronica.com/pt/bluetooth/135-hc-06-bluetooth.html)
