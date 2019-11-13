@@ -1,7 +1,7 @@
 # Extending WonderPyExamples by AJBN
 This project extends the original examples and tutorials for the [WonderPy Python API](https://github.com/playi/WonderPy) for working with [Wonder Workshop](https://www.makewonder.com) robots in two ways:
 1. track the robot on a floor mat or map. and
-2. issuing commands using tangibles blocks with NFC tags
+2. (wirelessly) issuing commands using tangibles blocks with NFC tags
 
 # Project Status
 They are at an "Alpha" release and were tested with the Dash robot.
@@ -14,9 +14,10 @@ They are at an "Alpha" release and were tested with the Dash robot.
 3. Python 2.7
 4. [pyTUIO](https://code.google.com/archive/p/pytuio/)
 5. [Processing](http://processing.org)
+6. and, of course, a webcam
 
 
-## Issuing commands to Dash using tangibles blocks with NFC tags
+## (Wirelessly) Issuing commands to Dash using tangibles blocks with NFC tags
 ### Setup
 #### Prerequisites
 1. MacOS
